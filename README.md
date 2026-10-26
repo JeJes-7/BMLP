@@ -45,6 +45,7 @@ Menampilkan struktur dataset menggunakan head(), info(), dan ringkasan statistik
 - Evaluasi performa model menggunakan Accuracy, Precision, Recall, dan F1-Score (classification_report).
 - Menyimpan model terbaik menggunakan joblib.dump().
 
+Pada model ini menggunakan model Decision Tree, Random Forest, dan model hasil tuning lainnya. Semua model ini mendapat precision, recall, dan F1 = 1.00, dan best CV score juga 1.0. Ini kemungkinan mengalami data leakage.
 
 Author
 Jesika Yudiani Putri
