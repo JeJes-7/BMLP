@@ -1,6 +1,11 @@
 # BMLP
 BMLP (Belajar Machine Learning untuk Pemula)
 
+
+[Clustering : ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1px1vPRk_R8Vdo3hIj_oTA9ecYRnjhV-p#scrollTo=GVIuT8VDokKn))
+
+[Klasifikasi : ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j6HR25N4GMsr5p6rudKsz2m-GoifO8iz))
+
 🚀 Deteksi Penipuan Finansial & Analisis Pola Transaksi (Machine Learning)
 
 Projek ini dikembangkan sebagai bagian dari Belajar Machine Learning untuk Pemula (BMLP). Repository ini berfokus pada eksplorasi perilaku transaksi dan pola aktivitas keuangan untuk mendeteksi penipuan (fraud detection) dan identifikasi anomali menggunakan teknik Unsupervised Learning (Clustering) dan Supervised Learning (Classification).
